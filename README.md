@@ -144,7 +144,7 @@ interpolated = interpolate(model, z1, z2, steps=8)
 
 ## License
 
-Open source - feel free to modify and experiment!
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Extensions
 
